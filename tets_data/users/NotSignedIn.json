@@ -1,0 +1,99 @@
+{
+  "stageUsers":[
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "titles": [
+        {
+          "title": "2021 International Mechanical Code (IMC)",
+          "chapters": [
+            "CHAPTER 18 SOILS AND FOUNDATIONS"
+          ],
+          "sections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "subSections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "words": [
+            "Soil classification", "subsurface exploration", "Additional studies", "soil strength"
+          ],
+          "partialWords": [
+            "requirem", "hydrosta", "CHAN"
+          ],
+          "categories": [
+            "North Dakota", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ],
+  "devUsers":[
+    {
+      "email": "",
+      "password": "",
+      "firstName": "",
+      "lastName": "",
+      "titles": [
+        {
+          "title": "2021 International Mechanical Code (IMC)",
+          "chapters": [
+            "CHAPTER 18 SOILS AND FOUNDATIONS"
+          ],
+          "sections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "subSections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "words": [
+            "Soil classification", "subsurface exploration", "Additional studies", "soil strength"
+          ],
+          "partialWords": [
+            "requirem", "hydrosta", "CHAN"
+          ],
+          "categories": [
+            "North Dakota", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ],
+  "prodUsers":[
+    {
+      "email": "",
+      "password": "",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2021 International Mechanical Code (IMC)",
+          "chapters": [
+            "CHAPTER 18 SOILS AND FOUNDATIONS"
+          ],
+          "sections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "subSections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "words": [
+            "Soil classification", "subsurface exploration", "Additional studies", "soil strength"
+          ],
+          "partialWords": [
+            "requirem", "hydrosta", "CHAN"
+          ],
+          "categories": [
+            "North Dakota", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ]
+}
+

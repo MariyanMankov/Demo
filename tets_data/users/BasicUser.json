@@ -1,0 +1,98 @@
+{
+  "stageUsers":[
+    {
+      "email": "mariyan.stage.basick@iccsafe.info",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2021 International Fuel Gas Code (IFGC)",
+          "chapters": [
+            "CHAPTER 4 GAS PIPING INSTALLATIONS"
+          ],
+          "sections": [
+            "SECTION 404 (IFGC) PIPING SYSTEM INSTALLATION"
+          ],
+          "subSections": [
+            "404.11 Protection against corrosion."
+          ],
+          "words": [
+            "steel pipe", " corrosive action", "soil conditions", "moisture"
+          ],
+          "partialWords": [
+            "condit", "corrosi", "moistu"
+          ],
+          "categories": [
+            "Alaska", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ],
+  "devUsers":[
+    {
+      "email": "mariyan.dev.basick2@iccsafe.info",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2021 International Fuel Gas Code (IFGC)",
+          "chapters": [
+            "CHAPTER 4 GAS PIPING INSTALLATIONS"
+          ],
+          "sections": [
+            "SECTION 404 (IFGC) PIPING SYSTEM INSTALLATION"
+          ],
+          "subSections": [
+            "404.11 Protection against corrosion."
+          ],
+          "words": [
+            "steel pipe", " corrosive action", "soil conditions", "moisture"
+          ],
+          "partialWords": [
+            "condit", "corrosi", "moistu"
+          ],
+          "categories": [
+            "Alaska", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ],
+  "prodUsers":[
+    {
+      "email": "mariyan.basick@iccsafe.info",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2021 International Fuel Gas Code (IFGC)",
+          "chapters": [
+            "CHAPTER 4 GAS PIPING INSTALLATIONS"
+          ],
+          "sections": [
+            "SECTION 404 (IFGC) PIPING SYSTEM INSTALLATION"
+          ],
+          "subSections": [
+            "404.11 Protection against corrosion."
+          ],
+          "words": [
+            "steel pipe", " corrosive action", "soil conditions", "moisture"
+          ],
+          "partialWords": [
+            "condit", "corrosi", "moistu"
+          ],
+          "categories": [
+            "Alaska", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ]
+}

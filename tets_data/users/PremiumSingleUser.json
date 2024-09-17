@@ -1,0 +1,98 @@
+{
+  "stageUsers":[
+    {
+      "email": "mariyan.stage.premiumsingle@iccsafe.info",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2021 International Fire Code (IFC)",
+          "chapters": [
+            "CHAPTER 21 DRY CLEANING"
+          ],
+          "sections": [
+            "2106.3.1 Spotting Tables."
+          ],
+          "subSections": [
+            "2106.3.1 Spotting Tables."
+          ],
+          "words": [
+            "thorough draining", "approved container", "brushing or spotting", "liquid-tight"
+          ],
+          "partialWords": [
+            "thoro", "approv", "liqu"
+          ],
+          "categories": [
+            "Alabama", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ],
+  "devUsers":[
+    {
+      "email": "mariyan.dev.premiumsingle@iccsafe.info",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2021 International Fire Code (IFC)",
+          "chapters": [
+            "CHAPTER 21 DRY CLEANING"
+          ],
+          "sections": [
+            "2106.3.1 Spotting Tables."
+          ],
+          "subSections": [
+            "2106.3.1 Spotting Tables."
+          ],
+          "words": [
+            "thorough draining", "approved container", "brushing or spotting", "liquid-tight"
+          ],
+          "partialWords": [
+            "thoro", "approv", "liqu"
+          ],
+          "categories": [
+            "Alabama", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ],
+  "prodUsers":[
+    {
+      "email": "mariyan.prod.premiumsingle@iccsafe.info",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2021 International Fire Code (IFC)",
+          "chapters": [
+            "CHAPTER 21 DRY CLEANING"
+          ],
+          "sections": [
+            "2106.3.1 Spotting Tables."
+          ],
+          "subSections": [
+            "2106.3.1 Spotting Tables."
+          ],
+          "words": [
+            "thorough draining", "approved container", "brushing or spotting", "liquid-tight"
+          ],
+          "partialWords": [
+            "thoro", "approv", "liqu"
+          ],
+          "categories": [
+            "Alabama", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ]
+}

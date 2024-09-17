@@ -1,0 +1,99 @@
+{
+  "stageUsers":[
+    {
+      "email": "mariyan.stage.premiumcomplete@iccsafe.info",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2022 Significant Changes to the California Building Code",
+          "chapters": [
+            "1612.4 Flood Hazard Documents"
+          ],
+          "sections": [
+            "1612.4 Flood Hazard Documents"
+          ],
+          "subSections": [
+            "1612.4 Flood Hazard Documents"
+          ],
+          "words": [
+            "CHANGE SUMMARY", "design of hydrostatic", "breakaway walls", "requirements"
+          ],
+          "partialWords": [
+            "hydrosta", "breakaw", "require"
+          ],
+          "categories": [
+            "Resources"
+          ],
+          "year": "2022"
+        }
+      ]
+    }
+  ],
+  "devUsers":[
+    {
+      "email": "mariyan.dev.premiumcomplete2@iccsafe.info",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2022 Significant Changes to the California Building Code",
+          "chapters": [
+            "1612.4 Flood Hazard Documents"
+          ],
+          "sections": [
+            "1612.4 Flood Hazard Documents"
+          ],
+          "subSections": [
+            "1612.4 Flood Hazard Documents"
+          ],
+          "words": [
+            "CHANGE SUMMARY", "design of hydrostatic", "breakaway walls", "requirements"
+          ],
+          "partialWords": [
+            "hydrosta", "breakaw", "require"
+          ],
+          "categories": [
+            "Resources"
+          ],
+          "year": "2022"
+        }
+      ]
+    }
+  ],
+  "prodUsers":[
+    {
+      "email": "mariyan.prod.premiumcomplete@iccsafe.info",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2022 Significant Changes to the California Building Code",
+          "chapters": [
+            "1612.4 Flood Hazard Documents"
+          ],
+          "sections": [
+            "1612.4 Flood Hazard Documents"
+          ],
+          "subSections": [
+            "1612.4 Flood Hazard Documents"
+          ],
+          "words": [
+            "CHANGE SUMMARY", "design of hydrostatic", "breakaway walls", "requirements"
+          ],
+          "partialWords": [
+            "hydrosta", "breakaw", "require"
+          ],
+          "categories": [
+            "Resources"
+          ],
+          "year": "2022"
+        }
+      ]
+    }
+  ]
+}
+

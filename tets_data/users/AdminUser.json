@@ -1,0 +1,99 @@
+{
+  "stageUsers":[
+    {
+      "email": "mariyan.mankov@primeholding.com",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2021 I-Codes,International Building Code (IBC)",
+          "chapters": [
+            "CHAPTER 18 SOILS AND FOUNDATIONS"
+          ],
+          "sections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "subSections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "words": [
+            "Soil classification", "subsurface exploration", "Additional studies", "soil strength"
+          ],
+          "partialWords": [
+            "requirem", "hydrosta", "CHAN"
+          ],
+          "categories": [
+            "North Dakota", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ],
+  "devUsers":[
+    {
+      "email": "mariyan.mankov@primeholding.com",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2021 I-Codes,International Building Code (IBC)",
+          "chapters": [
+            "CHAPTER 18 SOILS AND FOUNDATIONS"
+          ],
+          "sections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "subSections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "words": [
+            "Soil classification", "subsurface exploration", "Additional studies", "soil strength"
+          ],
+          "partialWords": [
+            "requirem", "hydrosta", "CHAN"
+          ],
+          "categories": [
+            "North Dakota", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ],
+  "prodUsers":[
+    {
+      "email": "mariyan.mankov@primeholding.com",
+      "password": "@Codes12345",
+      "firstName": "Mariyan",
+      "lastName": "Mankov",
+      "titles": [
+        {
+          "title": "2021 I-Codes,International Building Code (IBC)",
+          "chapters": [
+            "CHAPTER 18 SOILS AND FOUNDATIONS"
+          ],
+          "sections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "subSections": [
+            "1803.3 Basis of Investigation"
+          ],
+          "words": [
+            "Soil classification", "subsurface exploration", "Additional studies", "soil strength"
+          ],
+          "partialWords": [
+            "requirem", "hydrosta", "CHAN"
+          ],
+          "categories": [
+            "North Dakota", "I-Codes"
+          ],
+          "year": "2021"
+        }
+      ]
+    }
+  ]
+}
+
