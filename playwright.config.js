@@ -11,7 +11,10 @@ const { defineConfig, devices } = require('@playwright/test');
  * @see https://playwright.dev/docs/test-configuration
  */
 module.exports = defineConfig({
-
+  reporter: [
+    ['list'],
+    ['@estruyf/github-actions-reporter']
+  ],
   timeout: 170000 ,
   globalSetup:'utils/globalSetup.js',
   testDir: './tests',
